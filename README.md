@@ -12,3 +12,6 @@ This section will be different on conflictbranch.
 
 ##Method
 How will we resolve this conflict, since the "base" now has a conflict in it?
+
+##No More Conflicts
+We can now merge back into Master without any trouble.
